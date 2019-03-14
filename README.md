@@ -19,8 +19,8 @@ Follow the instructions below to start and play the game.
 ### Loading the Game
 You can load the game in the following two ways:
 
-- Clone or download the **[repo](https://github.com/fea1993/fend-memory-game.git)** and open index.html, or;
-- Play on github.io: **[Memory Game](https://fea1993.github.io/fend-memory-game/)**
+- Clone or download the **[repo](https://github.com/dkfega/ComDevGame.git)** and open index.html, or;
+- Play on github.io: **[Memory Game](https://dkfega.github.io/ComDevGame/)**
 
 
 ### Playing the Game
